@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/liste_de_course"
+        android:icon="@drawable/ic_baseline_list_alt_24"
+        android:title="Liste"
+        ></item>
+
+    <item
+        android:id="@+id/produit"
+        android:icon="@drawable/ic_baseline_fastfood_24"
+        android:title="Produit"></item>
+
+    <item
+        android:id="@+id/recette"
+        android:icon="@drawable/ic_baseline_cake_24"
+        android:title="Recette"></item>
+</menu>
